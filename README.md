@@ -1,4 +1,4 @@
-# Library Project
+# LibraryBot
 This project is a simple web application that allows users to create and manage their personal book library. It is built using HTML, CSS, and JavaScript and lets users add, display, and interact with their book collection.
 
 # Features
